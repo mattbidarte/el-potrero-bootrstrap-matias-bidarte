@@ -83,7 +83,7 @@ a {
 
 /* Productos destacados */
 .destacados-title{
-    font-size: 4.5em;
+    font-size: 4em;
 }
 
 .destacados {
@@ -199,6 +199,27 @@ a {
     padding: 30px 0 5px 0;
     font-size: 1.3em;
 }
+
+
+/* page nosotros */
+.nosotros__img {
+    height: 40vh;
+    border-radius: 15px;
+    border: #593622 10px solid;
+}
+
+.nosotros__description {
+    font-size: 2em;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
 
 
 /* responsive */
